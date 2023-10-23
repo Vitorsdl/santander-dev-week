@@ -1,5 +1,6 @@
 # santander-dev-week
 
+## Diagrama de Classes (Domínio da API)
 ```mermaid
 classDiagram
   class User {
